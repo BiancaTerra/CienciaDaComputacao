@@ -1,6 +1,6 @@
-## *Disciplina: _SISTEMAS OPERACIONAIS_*
-*Periodo: _3_*
-*Carga Horária: _60_*
+## *Disciplina:* SISTEMAS OPERACIONAIS
+#### *Periodo:* 3
+#### *Carga Horária:* 60
  
 ## Ementa:
 Gerência de processos/processador, Comunicação, Concorrência e Sincronização de Processos, Gerenciamento de Memória, Alocação de Recursos e Deadlocks, Sistemas de Arquivos, Gerenciamento de Dispositivos de Entrada/Saída.

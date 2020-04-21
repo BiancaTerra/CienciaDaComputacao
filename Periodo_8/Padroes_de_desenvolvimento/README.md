@@ -1,6 +1,6 @@
-## *Disciplina: _PADRÕES DE DESENVOLVIMENTO_*
-*Periodo: _8_*
-*Carga Horária: _80_*
+## *Disciplina:* PADRÕES DE DESENVOLVIMENTO
+#### *Periodo:* 8
+#### *Carga Horária:* 80
  
 ## Ementa:
 

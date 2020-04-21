@@ -1,6 +1,6 @@
-## *Disciplina: _LEGISLAÇÃO E RESPONSABILIDADE SOCIAL_*
-*Periodo: _8_*
-*Carga Horária: _40_*
+## *Disciplina:* LEGISLAÇÃO E RESPONSABILIDADE SOCIAL
+#### *Periodo:* 8
+#### *Carga Horária:* 40
  
 ## Ementa:
 

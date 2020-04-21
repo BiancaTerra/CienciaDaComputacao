@@ -1,6 +1,6 @@
-## *Disciplina: _PROCESSAMENTO DISTRIBUÍDO_*
-*Periodo: _5_*
-*Carga Horária: _60_*
+## *Disciplina:* PROCESSAMENTO DISTRIBUÍDO
+#### *Periodo:* 5
+#### *Carga Horária:* 60
  
 ## Ementa:
 Introdução: caracterização de sistemas de computação distribuída (hardware e software); aplicações distribuídas (caracterização e aspectos de projeto); objetivos básicos de sistemas distribuídos (transparência, abertura, escalabilidade, interface x implementação; objetos remotos; chamadas de métodos remotos -RMI). Modelos de sistemas distribuídos: sistemas cliente/servidor e sistemas multicamadas; sistemas peertopeer. Tolerância a falhas: comunicação confiável; replicação e manutenção de consistência entre réplicas; controle de concorrência e transações distribuídas; comunicação de grupo

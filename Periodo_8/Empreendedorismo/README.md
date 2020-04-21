@@ -1,6 +1,6 @@
-## *Disciplina: _EMPREENDEDORISMO_*
-*Periodo: _8_*
-*Carga Horária: _40_*
+## *Disciplina:* EMPREENDEDORISMO
+#### *Periodo:* 8
+#### *Carga Horária:* 40
  
 ## Ementa:
 

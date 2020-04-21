@@ -1,6 +1,6 @@
-## *Disciplina: _ESTRUTURA DE DADOS E ALGORITMOS_*
-*Periodo: _3_*
-*Carga Horária: _80_*
+## *Disciplina:* ESTRUTURA DE DADOS E ALGORITMOS
+#### *Periodo:* 3
+#### *Carga Horária:* 80
  
 ## Ementa:
 Métodos de ordenação. Introdução e conceitos básicos de complexidade algorítmica. Arquivos e manipulação usando estruturas de dados. Algoritmos em grafos

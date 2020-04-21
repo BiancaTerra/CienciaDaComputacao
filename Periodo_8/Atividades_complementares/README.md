@@ -1,6 +1,6 @@
-## *Disciplina: _Atividades Complementares_*
-*Periodo: _8_*
-*Carga Horária: _200_*
+## *Disciplina:* Atividades Complementares
+#### *Periodo:* 8
+#### *Carga Horária:* 200
  
 ## Ementa:
 

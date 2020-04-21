@@ -1,6 +1,6 @@
-## *Disciplina: _LÓGICA DE PROGRAMAÇÃO E ALGORITMOS_*
-## *Periodo: _1_*
-## *Carga Horária: _60_*
+## *Disciplina:* LÓGICA DE PROGRAMAÇÃO E ALGORITMOS
+#### *Periodo:* 1
+#### *Carga Horária:* 60
  
 ## Ementa:
 Noções de lógica de programação e algoritmos. Tipos, variáveis expressões e algoritmos sequenciais. Estruturas de controle. Vetores e matrizes. Funções.

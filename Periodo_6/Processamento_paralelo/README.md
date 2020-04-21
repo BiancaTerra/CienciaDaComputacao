@@ -1,6 +1,6 @@
-## *Disciplina: _PROCESSAMENTO PARALELO_*
-*Periodo: _6_*
-*Carga Horária: _60_*
+## *Disciplina:* PROCESSAMENTO PARALELO
+#### *Periodo:* 6
+#### *Carga Horária:* 60
  
 ## Ementa:
 Computação serial e computação vetorial: CPUs e GPUs multinúcleos, clusters e computadores maciçamente paralelos. Processamento concorrente, paralelo e distribuído. Software e hardware paralelos. Memórias distribuídas e compartilhadas. Linguagens de programação.

@@ -1,6 +1,6 @@
-## *Disciplina: _ESTÁGIO SUPERVISIONADO_*
-*Periodo: _8_*
-*Carga Horária: _300_*
+## *Disciplina:* ESTÁGIO SUPERVISIONADO
+#### *Periodo:* 8
+#### *Carga Horária:* 300
  
 ## Ementa:
 

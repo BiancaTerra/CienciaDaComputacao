@@ -1,6 +1,6 @@
-## *Disciplina: _ALGORITMO E COMPLEXIDADE_*
-*Periodo: _4_*
-*Carga Horária: _80_*
+## *Disciplina:* ALGORITMO E COMPLEXIDADE
+#### *Periodo:* 4
+#### *Carga Horária:* 80
  
 ## Ementa:
 Análise assintótica: notação O, Ômega e Teta. Análise de pior caso e análise probabilística. Análise amortizada de estruturas dinâmicas (tabelas dinâmicas, union find, splay trees). Paradigmas de projeto de algoritmos (programação dinâmica, divisão e conquista, aleatorização) e métodos de análise.

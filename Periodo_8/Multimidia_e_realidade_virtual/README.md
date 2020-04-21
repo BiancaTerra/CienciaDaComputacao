@@ -1,6 +1,6 @@
-## *Disciplina: _MULTIMÍDIA E REALIDADE VIRTUAL_*
-*Periodo: _8_*
-*Carga Horária: _40_*
+## *Disciplina:* MULTIMÍDIA E REALIDADE VIRTUAL
+#### *Periodo:* 8
+#### *Carga Horária:* 40
  
 ## Ementa:
 

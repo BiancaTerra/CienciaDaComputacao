@@ -1,6 +1,6 @@
-## *Disciplina: _INTRODUÇÃO A SISTEMAS DE INFORMAÇÃO_*
-*Periodo: _7_*
-*Carga Horária: _40_*
+## *Disciplina:* INTRODUÇÃO A SISTEMAS DE INFORMAÇÃO
+#### *Periodo:* 7
+#### *Carga Horária:* 40
  
 ## Ementa:
 Conceito de sistemas de informações gerenciais. O ciclo da informação na organização. Relações entre os tipos de situações-problema gerenciais no contexto organizacional e diferentes tipos de sistemas de informação. Análise de adequação de técnicas e ferramentas computacionais. Sistemas que utilizam trabalho com conhecimento e informação (information and knowledge work systems); melhoria da tomada de decisão administrativa: sistemas de apoio à decisão (dss), sistemas de apoio à decisão em grupo (gdss) e sistemas de apoio executivo (ess).

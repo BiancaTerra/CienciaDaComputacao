@@ -1,6 +1,6 @@
-## *Disciplina: _INTRODUÇÃO A ADMINISTRAÇÃO DE EMPRESAS_*
-*Periodo: _7_*
-*Carga Horária: _40_*
+## *Disciplina:* INTRODUÇÃO A ADMINISTRAÇÃO DE EMPRESAS
+#### *Periodo:* 7
+#### *Carga Horária:* 40
  
 ## Ementa:
 

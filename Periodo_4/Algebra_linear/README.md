@@ -1,6 +1,6 @@
-## *Disciplina: _ALGEBRA LINEAR_*
-*Periodo: _4_*
-*Carga Horária: _40_*
+## *Disciplina:* ALGEBRA LINEAR
+#### *Periodo:* 4
+#### *Carga Horária:* 40
  
 ## Ementa:
 Espaços Vetoriais. Dependência e independência linear. Transformações Lineares. Autovalores e autovetores. Diagonalização de operadores.

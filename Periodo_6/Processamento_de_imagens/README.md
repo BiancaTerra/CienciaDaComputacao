@@ -1,6 +1,6 @@
-## *Disciplina: _PROCESSAMENTO DE IMAGENS_*
-*Periodo: _6_*
-*Carga Horária: _80_*
+## *Disciplina:* PROCESSAMENTO DE IMAGENS
+#### *Periodo:* 6
+#### *Carga Horária:* 80
  
 ## Ementa:
 Apresentar ao aluno as principais técnicas relacionadas ao processamento de imagens e suas aplicações.

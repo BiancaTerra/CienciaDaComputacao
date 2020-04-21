@@ -1,6 +1,6 @@
-## *Disciplina: _DISCIPLINA ELETIVA_*
-*Periodo: _8_*
-*Carga Horária: _40_*
+## *Disciplina:* DISCIPLINA ELETIVA
+#### *Periodo:* 8
+#### *Carga Horária:* 40
  
 ## Ementa:
 

@@ -1,6 +1,6 @@
-## *Disciplina: _TRABALHO DE CONCLUSÃO DE CURSO I_*
-*Periodo: _7_*
-*Carga Horária: _160_*
+## *Disciplina:* TRABALHO DE CONCLUSÃO DE CURSO I
+#### *Periodo:* 7
+#### *Carga Horária:* 160
  
 ## Ementa:
  

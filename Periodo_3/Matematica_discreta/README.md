@@ -1,6 +1,6 @@
-## *Disciplina: _MATEMÁTICA DISCRETA_*
-*Periodo: _3_*
-*Carga Horária: _60_*
+## *Disciplina:* MATEMÁTICA DISCRETA
+#### *Periodo:* 3
+#### *Carga Horária:* 60
  
 ## Ementa:
 Lógica matemática: conceitos, notação, fórmulas, tabelas-verdade e Álgebra de Booleana. Teoria dos conjuntos: definições, representação dos conjuntos, relações, funções e operações. Álgebra Relacional , Técnicas de contagens: métodos de enumeração, números binomiais e Princípio de Dirichlet. Principio da indução matemática.

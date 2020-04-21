@@ -1,6 +1,6 @@
-## *Disciplina: _BANCO DE DADOS_*
-## *Periodo: _2_*
-## *Carga Horária: _80_*
+## *Disciplina:* BANCO DE DADOS
+#### *Periodo:* 2
+#### *Carga Horária:* 80
  
 ## Ementa:
 Conceitos Básicos: Arquitetura de um Sistema de Banco de Dados, Modelos de Dados, Linguagens de Definição e Manipulação de Dados, Usuário de Banco de Dados. Modelagem de Dados. Modelos de Dados: Relacional, Hierárquicos e de Redes. Projeto de Banco de Dados Relacional: Dependência Funcional, Chaves, Normalização e SQL

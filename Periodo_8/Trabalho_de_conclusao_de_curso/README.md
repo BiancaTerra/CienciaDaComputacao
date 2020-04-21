@@ -1,6 +1,6 @@
-## *Disciplina: _Trabalho de Conclusão de Curso_*
-*Periodo: _8_*
-*Carga Horária: _160_*
+## *Disciplina:* Trabalho de Conclusão de Curso
+#### *Periodo:* 8
+#### *Carga Horária:* 160
  
 ## Ementa:
 

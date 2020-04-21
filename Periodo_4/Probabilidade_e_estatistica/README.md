@@ -1,6 +1,6 @@
-## *Disciplina: _PROBABILIDADE E ESTATÍSTICA_*
-*Periodo: _4_*
-*Carga Horária: _40_*
+## *Disciplina:* PROBABILIDADE E ESTATÍSTICA
+#### *Periodo:* 4
+#### *Carga Horária:* 40
  
 ## Ementa:
 Criar uma base teórica na análise de dados por meio da estatística, de forma a atribuir a este aluno conhecimento básico para trabalhar com ferramentas de Data Science

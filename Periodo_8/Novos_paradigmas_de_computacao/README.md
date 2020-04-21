@@ -1,6 +1,6 @@
-## *Disciplina: _NOVOS PARADIGMAS DE COMPUTAÇÃO_*
-*Periodo: _8_*
-*Carga Horária: _60_*
+## *Disciplina:* NOVOS PARADIGMAS DE COMPUTAÇÃO
+#### *Periodo:* 8
+#### *Carga Horária:* 60
  
 ## Ementa:
 

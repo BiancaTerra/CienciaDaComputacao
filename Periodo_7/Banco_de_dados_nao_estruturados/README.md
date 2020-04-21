@@ -1,6 +1,6 @@
-## *Disciplina: _BANCO DE DADOS NÃO ESTRUTURADOS_*
-*Periodo: _7_*
-*Carga Horária: _80_*
+## *Disciplina:* BANCO DE DADOS NÃO ESTRUTURADOS
+#### *Periodo:* 7
+#### *Carga Horária:* 80
  
 ## Ementa:
 Conceitos de banco de dados noSQL, famílias noSQL, modelagem orientada a documento, chave valor e grafos. Implementação do algoritmo MapRecude, utilização da arquitetura Hadoop para processamento de dados.

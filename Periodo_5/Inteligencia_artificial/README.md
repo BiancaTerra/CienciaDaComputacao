@@ -1,6 +1,6 @@
-## *Disciplina: _INTELIGÊNCIA ARTIFICIAL_*
-*Periodo: _5_*
-*Carga Horária: _60_*
+## *Disciplina:* INTELIGÊNCIA ARTIFICIAL
+#### *Periodo:* 5
+#### *Carga Horária:* 60
  
 ## Ementa:
 Introdução a Inteligência Artificial. Conceitos básicos. Introdução conceitual das principais subáreas de Inteligência Artificial: resolução de problemas, sistemas especialistas, sistemas baseados em aprendizagem, incertezas, redes neurais, computação evolutiva.  

@@ -1,6 +1,6 @@
-## *Disciplina: _ENGENHARIA DE SOFTWARE I_*
-*Periodo: _3_*
-*Carga Horária: _60_*
+## *Disciplina:* ENGENHARIA DE SOFTWARE I
+#### *Periodo:* 3
+#### *Carga Horária:* 60
  
 ## Ementa:
 Conceitos de Engenharia de Software. Modelos de Processo. Métodos Ágeis. Engenharia de Software Auxiliada por Computador. Gestão de projetos de software. Qualidade de Software. Manutenção de Software.

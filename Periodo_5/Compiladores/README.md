@@ -1,6 +1,6 @@
-## *Disciplina: _COMPILADORES_*
-*Periodo: _5_*
-*Carga Horária: _60_*
+## *Disciplina:* COMPILADORES
+#### *Periodo:* 5
+#### *Carga Horária:* 60
  
 ## Ementa:
 Conceitos básicos: compiladores e interpretadores. Fases da compilação, compilação em um e vários passos. Compilador cruzado, compilador auto-compilável. Análise léxica e implementação de analisadores léxicos como autômatos finitos e ad hoc. Análise sintática ascendente e descendente e implementação de analisadores descendentes recursivos. Tratamento de erros sintáticos. Tabela de símbolos e análise semântica. Geração de código. Definição de uma linguagem e implementação de um compilador para uma máquina hipotética

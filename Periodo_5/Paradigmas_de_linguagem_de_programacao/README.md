@@ -1,6 +1,6 @@
-## *Disciplina: _PARADIGMAS DE LINGUAGEM DE PROGRAMAÇÃO_*
-*Periodo: _5_*
-*Carga Horária: _60_*
+## *Disciplina:* PARADIGMAS DE LINGUAGEM DE PROGRAMAÇÃO
+#### *Periodo:* 5
+#### *Carga Horária:* 60
  
 ## Ementa:
 Propriedades das linguagens de programação; descrição e comparação da sintaxe e semântica de linguagens de programação; ortogonalidade; paradigma imperativo: estruturas de seleção, de controle, de repetição, alocação de memória; recursividade; paradigma funcional; paradigma lógico; programação orientada a objetos.

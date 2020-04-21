@@ -1,6 +1,6 @@
-## *Disciplina: _SISTEMAS EM TEMPO REAL_*
-*Periodo: _7_*
-*Carga Horária: _60_*
+## *Disciplina:* SISTEMAS EM TEMPO REAL
+#### *Periodo:* 7
+#### *Carga Horária:* 60
  
 ## Ementa:
 Sistemas de tempo real; Sistemas embarcados: modelagem, projeto e implementação; Programação concorrente; Núcleos operacionais; Escalonamento.

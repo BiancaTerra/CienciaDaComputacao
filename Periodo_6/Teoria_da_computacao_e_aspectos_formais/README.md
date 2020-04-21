@@ -1,6 +1,6 @@
-## *Disciplina: _TEORIA DA COMPUTAÇÃO E ASPECTOS FORMAIS_*
-*Periodo: _6_*
-*Carga Horária: _60_*
+## *Disciplina:* TEORIA DA COMPUTAÇÃO E ASPECTOS FORMAIS
+#### *Periodo:* 6
+#### *Carga Horária:* 60
  
 ## Ementa:
 Gramáticas; Linguagens Regulares, Sensíveis ao Contexto, Livres de Contexto; Tipos de Reconhecedores; Autômatos de Estado Finito, Determinísticos e não determinísticos; Máquina de Turing; Autômatos de Pilha; Hierarquia de Chomsky.

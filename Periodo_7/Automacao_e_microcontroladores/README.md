@@ -1,6 +1,6 @@
-## *Disciplina: _AUTOMAÇÃO E MICROCONTROLADORES_*
-*Periodo: _7_*
-*Carga Horária: _80_*
+## *Disciplina:* AUTOMAÇÃO E MICROCONTROLADORES
+#### *Periodo:* 7
+#### *Carga Horária:* 80
  
 ## Ementa:
 Conceitos teóricos de controle e automação industrial. Estrutura Interna de microcontroladores. Linguagens de Programação. Ferramentas de desenvolvimento: compilador, simulador, emulador. Interfaceamento. Considerações de construção de projetos.

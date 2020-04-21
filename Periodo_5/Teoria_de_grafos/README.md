@@ -1,6 +1,6 @@
-## *Disciplina: _TEORIA DE GRAFOS_*
-*Periodo: _5_*
-*Carga Horária: _60_*
+## *Disciplina:* TEORIA DE GRAFOS
+#### *Periodo:* 5
+#### *Carga Horária:* 60
  
 ## Ementa:
 - Conceitos básicos de grafos: Rotulação e representação de grafos; Conexidade; Conectividade. - Problemas de caminhos: Problemas do caminho mínimo; Algorítimos para achar caminhos mínimos. - Problemas de interligação: Árvores; Complexidade. - Grafos de Euler - Problemas de coloração - Grafos Coplanares

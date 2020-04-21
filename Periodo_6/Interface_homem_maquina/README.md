@@ -1,6 +1,6 @@
-## *Disciplina: _INTERFACE HOMEM MÁQUINA_*
-*Periodo: _6_*
-*Carga Horária: _40_*
+## *Disciplina:* INTERFACE HOMEM MÁQUINA
+#### *Periodo:* 6
+#### *Carga Horária:* 40
  
 ## Ementa:
 Conceitos básicos de interação homem ? máquina, interfaces, usuários, usabilidade, fundamentos teóricos, aspectos cognitivos e ergonômicos, projeto de interfaces, modelos, métodos e ferramentas, avaliação de interfaces e Interfaces Web.

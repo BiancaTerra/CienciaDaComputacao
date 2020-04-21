@@ -1,6 +1,6 @@
-## *Disciplina: _LINGUAGEM DE PROGRAMAÇÃO_*
-## *Periodo: _2_*
-## *Carga Horária: _60_*
+## *Disciplina:* LINGUAGEM DE PROGRAMAÇÃO
+#### *Periodo:* 2
+#### *Carga Horária:* 60
  
 ## Ementa:
 Elementos básicos de uma linguagem de programação orientada a objetos. Programação orientada a objetos. Tratamento de exceções. Projeto de soluções usando programação orientada a objetos

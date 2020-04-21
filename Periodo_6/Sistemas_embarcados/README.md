@@ -1,6 +1,6 @@
-## *Disciplina: _SISTEMAS EMBARCADOS_*
-*Periodo: _6_*
-*Carga Horária: _60_*
+## *Disciplina:* SISTEMAS EMBARCADOS
+#### *Periodo:* 6
+#### *Carga Horária:* 60
  
 ## Ementa:
 Definições e aplicações. Restrições temporais, de memória, de capacidade de processamento e de consumo de energia. Metodologias e ferramentas para desenvolvimento de sistemas embarcados. Hardware embarcado. Software embarcado. Modelos formais. Hardware e software codesign.

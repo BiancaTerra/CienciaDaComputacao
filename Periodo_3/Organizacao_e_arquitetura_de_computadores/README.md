@@ -1,6 +1,6 @@
-## *Disciplina: _ORGANIZAÇÃO E ARQUITETURA DE COMPUTADORES_*
-*Periodo: _3_*
-*Carga Horária: _40_*
+## *Disciplina:* ORGANIZAÇÃO E ARQUITETURA DE COMPUTADORES
+#### *Periodo:* 3
+#### *Carga Horária:* 40
  
 ## Ementa:
 Histórico dos processadores 32 bits. Processadores. Comparação RISC x CISC. Registradores. Modo Real. Modo Protegido. Modo Virtual 86. Interrupção. Tipos e funcionamento das memórias. Princípios e funcionamento dos barramentos. Dispositivos de Entrada e Saída.

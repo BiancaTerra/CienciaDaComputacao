@@ -1,6 +1,6 @@
-## *Disciplina: _ENGENHARIA DE SOFTWARE II_*
-*Periodo: _4_*
-*Carga Horária: _60_*
+## *Disciplina:* ENGENHARIA DE SOFTWARE II
+#### *Periodo:* 4
+#### *Carga Horária:* 60
  
 ## Ementa:
 Conceituação de Engenharia de Sistemas. Estudos de viabilidade de desenvolvimento de sistemas. Engenharia de Requisitos. Modelagem de sistemas. Técnicas de levantamento e análise de requisitos e projeto de software. UML. Teste de Software.

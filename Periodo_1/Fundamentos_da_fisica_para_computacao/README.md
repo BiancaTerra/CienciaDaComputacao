@@ -1,6 +1,6 @@
-## *Disciplina: _FUNDAMENTOS DA FÍSICA PARA COMPUTAÇÃO_*
-## *Periodo: _1_*
-## *Carga Horária: _60_*
+## *Disciplina:* FUNDAMENTOS DA FÍSICA PARA COMPUTAÇÃO
+#### *Periodo:* 1
+#### *Carga Horária:* 60
  
 ## Ementa:
 Circuitos elétricos sob o regime de corrente contínua e alternada. Medidas Elétricas e Instrumentos de Medidas. Dispositivos Elétricos (resistores, capacitores, indutores, diodos, etc).
