@@ -1,6 +1,6 @@
 ## *Disciplina: _CÁLCULO II_*
-*Periodo: _2_*
-*Carga Horária: _60_*
+## *Periodo: _2_*
+## *Carga Horária: _60_*
  
 ## Ementa:
 Sequências e Séries. Funções Reais de várias variáveis. Derivadas parciais e aplicações. Integrais Multiplas e aplicações.

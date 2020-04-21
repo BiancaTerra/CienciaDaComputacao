@@ -1,6 +1,6 @@
 ## *Disciplina: _GEOMETRIA ANALÍTICA_*
-*Periodo: _2_*
-*Carga Horária: _60_*
+## *Periodo: _2_*
+## *Carga Horária: _60_*
  
 ## Ementa:
 Álgebra matricial. Tipos especiais de matrizes. Matrizes em bloco. Matriz inversa. Sistemas de Equações Lineares. Forma escada. Método de Gauss-jordan. Vetores: álgebra vetorial; combinação linear; conjuntos linearmente independente e dependente; bases.

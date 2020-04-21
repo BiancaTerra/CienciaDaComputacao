@@ -1,6 +1,6 @@
 ## *Disciplina: _Metodologia de pesquisa Científica_*
-*Periodo: _1_*
-*Carga Horária: _40_*
+## *Periodo: _1_*
+## *Carga Horária: _40_*
  
 ## Ementa:
 Fundamentos da Metodologia Científica. A Comunicação Científica. Métodos e técnicas de pesquisa. A comunicação entre orientados/orientadores. Normas para Elaboração de Trabalhos Acadêmicos. O pré-projeto de pesquisa. O Projeto de Pesquisa. O Experimento. A organização de texto científico (Normas ABNT e IEEE)

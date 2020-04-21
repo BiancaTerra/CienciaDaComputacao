@@ -1,6 +1,6 @@
 ## *Disciplina: _RELAÇÕES SOCIAIS ÉTNICAS E MEIO AMBIENTE_*
-*Periodo: _1_*
-*Carga Horária: _20_*
+## *Periodo: _1_*
+## *Carga Horária: _20_*
  
 ## Ementa:
 Estudar as relações entre História, Ambiente e relações étnicas, a partir dos diálogos teóricos gerais da História Ambiental, discutindo as questões étnicas. Análise dos principais problemas socioambientais e contemporâneos e o impacto desses problemas na vida diária das pessoas e no contexto onde estão inseridas. Responsabilidade social. Conceito de sustentabilidade. Sustentabilidade como política de orientação do planejamento estratégico das organizações.
